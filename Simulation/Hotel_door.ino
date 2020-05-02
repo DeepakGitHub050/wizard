@@ -36,11 +36,7 @@ void setup() {
 }
 
 void loop() {
-  // set the cursor to column 0, line 1
-  // (note: line 1 is the second row, since counting begins with 0):
-  
-  // print the number of seconds since reset:
- 
+   
   val = analogRead(potpin);
   pirStat = digitalRead(pirPin); 
   if (pirStat == HIGH)
@@ -48,7 +44,7 @@ void loop() {
     lcd.setCursor(0, 1);
     lcd.print("access granted");
     val = map(val, 0, 1023, 0, 120);
-   // scale it to use it with the servo (value between 0 and 180)
+   
     myservo.write(val); // sets the servo position according to the scaled value
   }
   else
@@ -56,7 +52,6 @@ void loop() {
     lcd.setCursor(0, 1);
     lcd.print("invalid       ");
     val = map(val, 0, 1023, 0, 0);
-   // scale it to use it with the servo (value between 0 and 180)
     myservo.write(val); 
   }
 }
