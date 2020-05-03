@@ -12,3 +12,5 @@ MIT 4.JPEG := to open or close the door, user has to scan then QR code. if it ma
 MIT 5.JPEG := if scanned QR code will not match with user id then door will not open/close and "unsuccessful" message will pop-up.
 
 new_project.apk := this is the mobile app which should be installed in user's phone after checking in. so that, there will be no need of physical key. 
+new_project_updated.apk := in this app, we have improve the layout design and functionality. so that, user can easily understand the app and 
+they can use this app comfortably. 
