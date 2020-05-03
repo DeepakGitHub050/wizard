@@ -3,8 +3,8 @@ which will be helpful for users like the problems of queue for check in,  manual
 So at a time we are trying to solve two problem statements i.e "Take out the human interaction" and "Smooth the step in".
 
 Here we are introducing:
-Website- used for hotel rooms booking
-An App- for hotel check in
+Website- used for hotel rooms booking,
+An App- for hotel check in,
 An IoT setup - used for setup of local server and to provide user the security while hotel check in process
 
 Taking the example of an user name XYZ. Lets cover his journey from hotel booking to check in:-
@@ -21,5 +21,5 @@ Taking the example of an user name XYZ. Lets cover his journey from hotel bookin
 We have tried to provide much security and privacy while hotel checkin. Here the admin panel plays an important role for it.
 
 1. Admin will be alloting an unique id to each room with unique user no.
-2. For notification, when the user will come under the range of Human sensor and will scan the QR code successfully, admin will recieve notifivation
+2. For notification, when the user will come under the range of Human sensor and will scan the QR code successfully, admin will recieve notification
    of it.
