@@ -8,3 +8,4 @@ MIT 3.JPEG := if the entered password will be Incorrect then open and close (of 
 MIT 4.JPEG := to open or close the door, user has to scan then QR code. if it matched then door will open/close.
 MIT 5.JPEG := if scanned QR code will not match with user id then door will not open/close and "unsuccessful" message will pop-up.
 
+new_project.apk := this is the mobile app which should be installed in user's phone after checking in. so that, there will be no need of physical key. 
