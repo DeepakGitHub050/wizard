@@ -20,6 +20,6 @@ Taking the example of an user name XYZ. Lets cover his journey from hotel bookin
 
 We have tried to provide much security and privacy while hotel checkin. Here the admin panel plays an important role for it.
 
-1. Admin will be alloting an unique id to each room with unique no. of user.
+1. Admin will be alloting an unique id to each room with unique user no.
 2. For notification, when the user will come under the range of Human sensor and will scan the QR code successfully, admin will recieve notifivation
    of it.
