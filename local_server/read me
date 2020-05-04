@@ -1,0 +1,6 @@
+
+This is the python file which will run on RPi and will act as a server. RPi will fetch the user name and the login id of registered user, from 
+the data base. whenever user will enter the login id as a password in mobile app then that will go to RPi and that password will be check, whether 
+the user password is correct or not. if password will be correct then scan opention will pop up and then user will scan to open or close the door. When 
+user will scan then that scanned information and login password will send to RPi and it will check that persion is accessing the alloted 
+room or not.
