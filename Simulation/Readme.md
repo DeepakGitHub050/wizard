@@ -10,3 +10,5 @@ angle is approx 90 degree) and lcd is displaying the message "access granted".
 
 Similarly in "invalid.png", when the user is outside the range of human detector the automated doors are closed( i.e servo motor
 angle is zero degree) and lcd is displaying the message "invalid".
+
+FOR REFERENCE WE HAVE ADDED VIDEO ALSO OF OUR SIMULINK.
