@@ -7,4 +7,4 @@ Here we have written a code in python to setup a local server on which user's ph
 
 
 Here we have taken one user's ID and according to that QR code is generated. 
-The whole setup is running on #Raspberry pi and its acting as a local server. 
+The whole setup is running on **Raspberry pi** and its acting as a local server. 
