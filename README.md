@@ -25,4 +25,4 @@ We have tried to provide much security and privacy while hotel checkin. Here the
 
 
 
-                        FOR REFERENCE WE HAVE ADDED VIDEO OF OUR WORK IN EACH FOLDER
+                                     FOR REFERENCE WE HAVE ADDED VIDEO OF OUR WORK IN EACH FOLDER
